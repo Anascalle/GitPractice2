@@ -1,1 +1,2 @@
 Hola, este es mi primer saludo en un archivo en Git
+¡Hasta luego! Nos vemos en una proxima ocasión
